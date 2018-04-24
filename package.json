@@ -1,0 +1,10 @@
+{
+  "name": "toolkits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ic": "node scripts/ic_launcher.js",
+    "clean": "node scripts/clean.js"
+  },
+  "license": "MIT"
+}
